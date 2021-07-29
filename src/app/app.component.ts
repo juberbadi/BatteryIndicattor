@@ -6,8 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  colorLow = '#d91a1a';
-  colorMid = '#3DCC93';
-  colorHigh = '#c2c0c0';
-  percentage = 100;
+  colorLow = '#d40f0f';
+  colorMid = '#1fd40f';
+  colorHigh = '#bdbdbd';
+  percentage = 75;
 }
